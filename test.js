@@ -7,4 +7,4 @@ function is_leap(year)
         return false
 }
 
-console.log(is_leap(2010))
+console.log(is_leap(2022))
